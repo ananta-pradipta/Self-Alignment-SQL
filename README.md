@@ -1,2 +1,2 @@
-SQL Instruction-Response Generation Pipeline	Using vLLM Self-Alignment
+SQL Instruction-Response Generation Pipeline Using vLLM Self-Alignment
 
